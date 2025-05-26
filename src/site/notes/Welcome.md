@@ -10,7 +10,7 @@
 Hallo! Mijn naam is **Gianni Van Cauwenberge**, ik ben een 22-jarige student **Toegepaste Informatica** aan de **Hogeschool Gent**, met een afstudeerrichting in **Systeem- en Netwerkbeheer**. Mijn passie ligt in het bouwen, beheren en automatiseren van IT-infrastructuren die organisaties helpen om efficiënter en veiliger te werken.
 
 ---
-
+- [Opleiding]
 ## Opleiding
 
 - **Toegepaste Informatica**  
