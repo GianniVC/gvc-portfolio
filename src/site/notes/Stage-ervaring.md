@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/stage-ervaring/"}
 ---
 
-
-## Stage-ervaring
-
+# Stage-ervaring
 **EFFIX Group** – Stagiair IT-Infrastructuur & Cloud  
 *Periode: 14 weken*
 
